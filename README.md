@@ -3,5 +3,5 @@
 ![Alt text] (https://github.com/mschn010/messenger/blob/master/screenshots/Capture.PNG)
 <b> You can see the message you are writing above the line. :arrow_up:<br>
 ![Alt text] (https://github.com/mschn010/messenger/blob/master/screenshots/Capture.PNG2.PNG)
-<b> You can send your message through multiple different ways.<br>
+<b> You can send your message through multiple different ways. :+1:<br>
 ![Alt text] (https://github.com/mschn010/messenger/blob/master/screenshots/Capture.PNG3.PNG)
